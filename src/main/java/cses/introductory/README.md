@@ -7,3 +7,4 @@
 | [Repetitions](https://cses.fi/problemset/task/1069)      | [Solution](Repetitions.java)     |
 | [Increasing Array](https://cses.fi/problemset/task/1094) | [Solution](IncreasingArray.java) |
 | [Permutations](https://cses.fi/problemset/task/1070)     | [Solution](Permutations.java)    |
+| [Number Spiral](https://cses.fi/problemset/task/1071)    | [Solution](NumberSpiral.java)    |
