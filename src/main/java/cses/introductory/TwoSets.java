@@ -78,7 +78,7 @@ public class TwoSets {
                 Integer firstOddNumber = listOdd.get(0);
 
                 boolean isOdd = numberSearched % 2 != 0;
-                if (numberSearched > firstOddNumber && isOdd) {
+                if (numberSearched >= firstOddNumber && isOdd) {
                     String searchedValueAsString = String.valueOf(numberSearched);
                     int start = oddListResult.indexOf(searchedValueAsString);
                     oddListResult.delete(start, start + searchedValueAsString.length() + 1);
