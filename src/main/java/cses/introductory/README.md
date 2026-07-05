@@ -9,3 +9,4 @@
 | [Permutations](https://cses.fi/problemset/task/1070)     | [Solution](Permutations.java)    |
 | [Number Spiral](https://cses.fi/problemset/task/1071)    | [Solution](NumberSpiral.java)    |
 | [Two Knights](https://cses.fi/problemset/task/1072)      | [Solution](TwoKnights.java)      |
+| [Two Sets](https://cses.fi/problemset/task/1092)         | [Solution](TwoSets.java)         |
