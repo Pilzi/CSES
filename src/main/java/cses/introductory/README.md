@@ -12,3 +12,4 @@
 | [Two Sets](https://cses.fi/problemset/task/1092)         | [Solution](TwoSets.java)         |
 | [Bit Strings](https://cses.fi/problemset/task/1617)      | [Solution](BitStrings.java)      |
 | [Trailing Zeros](https://cses.fi/problemset/task/1618)   | [Solution](TrailingZeros.java)   |
+| [Coin Piles](https://cses.fi/problemset/task/1754)       | [Solution](CoinPiles.java)       |
