@@ -14,3 +14,4 @@
 | [Trailing Zeros](https://cses.fi/problemset/task/1618)     | [Solution](TrailingZeros.java)     |
 | [Coin Piles](https://cses.fi/problemset/task/1754)         | [Solution](CoinPiles.java)         |
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755) | [Solution](PalindromeReorder.java) |
+| [Gray Code](https://cses.fi/problemset/task/2205)          | [Solution](GrayCode.java)          |
