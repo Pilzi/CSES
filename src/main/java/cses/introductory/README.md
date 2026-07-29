@@ -15,3 +15,4 @@
 | [Coin Piles](https://cses.fi/problemset/task/1754)         | [Solution](CoinPiles.java)         |
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755) | [Solution](PalindromeReorder.java) |
 | [Gray Code](https://cses.fi/problemset/task/2205)          | [Solution](GrayCode.java)          |
+| [Tower of Hanoi](https://cses.fi/problemset/task/2165)     | [Solution](TowerOfHanoi.java)      |
