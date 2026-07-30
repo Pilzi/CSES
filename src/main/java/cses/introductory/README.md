@@ -16,3 +16,4 @@
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755) | [Solution](PalindromeReorder.java) |
 | [Gray Code](https://cses.fi/problemset/task/2205)          | [Solution](GrayCode.java)          |
 | [Tower of Hanoi](https://cses.fi/problemset/task/2165)     | [Solution](TowerOfHanoi.java)      |
+| [Creating Strings](https://cses.fi/problemset/view/1622/)  | [Solution](CreatingStrings.java)   |
