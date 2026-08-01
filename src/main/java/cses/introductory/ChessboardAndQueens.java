@@ -9,7 +9,7 @@ import java.util.List;
 public class ChessboardAndQueens {
     public static final int FREE_TILE = -1;
     public static final int QUEEN = 1;
-    public static final List<Cord> alreadyPlacedQueens = new ArrayList<>();
+    public static final List<Coord> alreadyPlacedQueens = new ArrayList<>();
     public static long possibleSolutionsCount = 0L;
 
     public static void main(String[] args) throws IOException {
@@ -43,7 +43,7 @@ public class ChessboardAndQueens {
 
         if (board[row][col] == FREE_TILE && !isTileCoveredByQueen(board, row, col)) {
             board[row][col] = QUEEN;
-            Cord placedQueen = new Cord(row, col);
+            Coord placedQueen = new Coord(row, col);
             alreadyPlacedQueens.add(placedQueen);
             solveEightQueens(board, row + 1, 0);
             board[row][col] = FREE_TILE;
@@ -59,7 +59,7 @@ public class ChessboardAndQueens {
     }
 
     private static boolean isTileCoveredByQueen(int[][] board, int col, int row) {
-        for (Cord queen : alreadyPlacedQueens) {
+        for (Coord queen : alreadyPlacedQueens) {
 
             if (queen.col == col || queen.row == row) {
                 return true;
@@ -93,11 +93,11 @@ public class ChessboardAndQueens {
         return false;
     }
 
-    public static class Cord {
+    public static class Coord {
         public int col;
         public int row;
 
-        public Cord(int col, int row) {
+        public Coord(int col, int row) {
             this.col = col;
             this.row = row;
         }
