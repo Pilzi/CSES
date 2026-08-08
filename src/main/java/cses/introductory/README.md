@@ -19,3 +19,4 @@
 | [Creating Strings](https://cses.fi/problemset/task/1622)      | [Solution](CreatingStrings.java)     |
 | [Apple Division](https://cses.fi/problemset/task/1623)        | [Solution](AppleDivision.java)       |
 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [Solution](ChessboardAndQueens.java) |
+| [Raab Game I](https://cses.fi/problemset/task/3399/)          | [Solution](RaabGame1.java)           |
