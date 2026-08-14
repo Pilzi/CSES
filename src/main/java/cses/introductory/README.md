@@ -22,3 +22,4 @@
 | [Raab Game I](https://cses.fi/problemset/task/3399)           | [Solution](RaabGame1.java)           |
 | [Mex Grid Construction](https://cses.fi/problemset/task/3419) | [Solution](MexGridConstruction.java) |
 | [Knight Moves Grid](https://cses.fi/problemset/task/3217)     | [Solution](KnightMovesGrid.java)     |
+| [Grid Coloring I](https://cses.fi/problemset/task/3311)       | [Solution](GridColoring1.java)       |
