@@ -24,3 +24,4 @@
 | [Knight Moves Grid](https://cses.fi/problemset/task/3217)     | [Solution](KnightMovesGrid.java)     |
 | [Grid Coloring I](https://cses.fi/problemset/task/3311)       | [Solution](GridColoring1.java)       |
 | [Digit Queries](https://cses.fi/problemset/task/2431)         | [Solution](DigitQueries.java)        |
+| [String Reorder](https://cses.fi/problemset/task/1743)        | [Solution](StringReorder.java)       |
