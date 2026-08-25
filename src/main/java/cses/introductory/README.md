@@ -23,3 +23,4 @@
 | [Mex Grid Construction](https://cses.fi/problemset/task/3419) | [Solution](MexGridConstruction.java) |
 | [Knight Moves Grid](https://cses.fi/problemset/task/3217)     | [Solution](KnightMovesGrid.java)     |
 | [Grid Coloring I](https://cses.fi/problemset/task/3311)       | [Solution](GridColoring1.java)       |
+| [Digit Queries](https://cses.fi/problemset/task/2431)         | [Solution](DigitQueries.java)        |
