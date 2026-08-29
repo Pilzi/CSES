@@ -25,3 +25,4 @@
 | [Grid Coloring I](https://cses.fi/problemset/task/3311)       | [Solution](GridColoring1.java)       |
 | [Digit Queries](https://cses.fi/problemset/task/2431)         | [Solution](DigitQueries.java)        |
 | [String Reorder](https://cses.fi/problemset/task/1743)        | [Solution](StringReorder.java)       |
+| [Grid Path Description](https://cses.fi/problemset/task/1625) | [Solution](GridPathDescription.java) |
