@@ -7,4 +7,4 @@
 | [Ferris Wheel](https://cses.fi/problemset/task/1090)         | [Solution](FerrisWheel.java)         |
 | [Concert Tickets](https://cses.fi/problemset/task/1091)      | [Solution](ConcertTickets.java)      |
 | [Restaurant Customers](https://cses.fi/problemset/task/1619) | [Solution](RestaurantCustomers.java) |
-| [Restaurant Customers](https://cses.fi/problemset/task/1629) | [Solution](MovieFestival.java)       |
+| [Movie Festival](https://cses.fi/problemset/task/1629)       | [Solution](MovieFestival.java)       |
