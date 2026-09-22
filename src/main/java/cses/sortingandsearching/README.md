@@ -8,3 +8,4 @@
 | [Concert Tickets](https://cses.fi/problemset/task/1091)      | [Solution](ConcertTickets.java)      |
 | [Restaurant Customers](https://cses.fi/problemset/task/1619) | [Solution](RestaurantCustomers.java) |
 | [Movie Festival](https://cses.fi/problemset/task/1629)       | [Solution](MovieFestival.java)       |
+| [Sum of Two Values](https://cses.fi/problemset/task/1640)    | [Solution](SumOfTwoValues.java)      |
