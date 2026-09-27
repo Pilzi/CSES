@@ -10,3 +10,4 @@
 | [Movie Festival](https://cses.fi/problemset/task/1629)       | [Solution](MovieFestival.java)       |
 | [Sum of Two Values](https://cses.fi/problemset/task/1640)    | [Solution](SumOfTwoValues.java)      |
 | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | [Solution](MaximumSubarraySum.java)  |
+| [Stick Lengths](https://cses.fi/problemset/task/1074)        | [Solution](StickLengths.java)        |
