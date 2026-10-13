@@ -13,4 +13,5 @@
 | [Stick Lengths](https://cses.fi/problemset/task/1074)        | [Solution](StickLengths.java)        |
 | [Missing Coin Sum](https://cses.fi/problemset/task/2183)     | [Solution](MissingCoinSum.java)      |
 | [Collecting Numbers](https://cses.fi/problemset/task/2216)   | [Solution](CollectingNumbers.java)   |
-| [Collecting Numbers](https://cses.fi/problemset/task/2217)   | [Solution](CollectingNumbers2.java)  |
+| [Collecting Numbers 2](https://cses.fi/problemset/task/2217) | [Solution](CollectingNumbers2.java)  |
+| [Playlist](https://cses.fi/problemset/task/1141)             | [Solution](Playlist.java)            |
