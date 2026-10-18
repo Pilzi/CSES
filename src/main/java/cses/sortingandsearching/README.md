@@ -15,3 +15,4 @@
 | [Collecting Numbers](https://cses.fi/problemset/task/2216)   | [Solution](CollectingNumbers.java)   |
 | [Collecting Numbers 2](https://cses.fi/problemset/task/2217) | [Solution](CollectingNumbers2.java)  |
 | [Playlist](https://cses.fi/problemset/task/1141)             | [Solution](Playlist.java)            |
+| [Towers](https://cses.fi/problemset/task/1073)               | [Solution](Towers.java)              |
