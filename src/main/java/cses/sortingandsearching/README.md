@@ -16,3 +16,4 @@
 | [Collecting Numbers 2](https://cses.fi/problemset/task/2217) | [Solution](CollectingNumbers2.java)  |
 | [Playlist](https://cses.fi/problemset/task/1141)             | [Solution](Playlist.java)            |
 | [Towers](https://cses.fi/problemset/task/1073)               | [Solution](Towers.java)              |
+| [Traffic Lights](https://cses.fi/problemset/task/1163/)               | [Solution](TrafficLights.java)              |
