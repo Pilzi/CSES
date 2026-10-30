@@ -19,3 +19,4 @@
 | [Traffic Lights](https://cses.fi/problemset/task/1163/)              | [Solution](TrafficLights.java)              |
 | [Distinct Values Subarrays](https://cses.fi/problemset/task/3420/)   | [Solution](DistinctValuesSubarrays.java)    |
 | [Distinct Values Subsequences](https://cses.fi/problemset/task/3421) | [Solution](DistinctValuesSubsequences.java) |
+| [Josephus Problem 1](https://cses.fi/problemset/task/2162)           | [Solution](JosephusProblem.java)            |
