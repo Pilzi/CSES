@@ -20,3 +20,4 @@
 | [Distinct Values Subarrays](https://cses.fi/problemset/task/3420/)   | [Solution](DistinctValuesSubarrays.java)    |
 | [Distinct Values Subsequences](https://cses.fi/problemset/task/3421) | [Solution](DistinctValuesSubsequences.java) |
 | [Josephus Problem 1](https://cses.fi/problemset/task/2162)           | [Solution](JosephusProblem.java)            |
+| [Josephus Problem 2](https://cses.fi/problemset/task/2163)           | [Solution](JosephusProblem2.java)            |
